@@ -1,0 +1,8 @@
+.login_admin{
+	float: right;
+}
+.error{
+	color: red;
+	font-style: italic;
+	font-weight: 700;
+}
